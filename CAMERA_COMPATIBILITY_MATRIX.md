@@ -25,7 +25,7 @@ These standards improve the odds of broad camera support, but they do not make e
 
 ## Device test record
 
-Copy one record per camera/NVR and stream profile. Do not put passwords, secret-bearing stream URLs, public IPs, or customer footage in this worksheet or in chat.
+Copy one record per camera/NVR and stream profile. Do not include passwords, secret-bearing stream URLs, public IP addresses, or customer footage in this worksheet.
 
 | Field | Value |
 | --- | --- |
